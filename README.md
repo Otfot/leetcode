@@ -9,3 +9,6 @@
 |   | 1646 | Get Maximum in Generated Array | [Java](algorithms/java/src/getMaximumInGeneratedArray/MaximumInGeneratedArray.java) |  Easy |
 | Tree |   |       |          |            |
 |      | 94 | Binary Tree Inorder Traversal | [Java](algorithms/java/src/binaryTreeInorderTraversal/BinaryTreeInorderTraversal.java) | Medium | 
+|      | 96 | Unique Binary Search Trees | [Java](algorithms/java/src/uniqueBinarySearchTrees/UniqueBinarySearchTrees.java) | Medium |
+
+
