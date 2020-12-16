@@ -14,6 +14,6 @@
 | Tree |   |       |          |            |
 |      | 94 | Binary Tree Inorder Traversal | [Java](algorithms/java/src/binaryTreeInorderTraversal/BinaryTreeInorderTraversal.java) | Medium | 
 |      | 96 | Unique Binary Search Trees | [Java](algorithms/java/src/uniqueBinarySearchTrees/UniqueBinarySearchTrees.java) | Medium |
-|     | 95 | Unique Binary Search TreesII | [Java](algorithms/java/src/uniqueBinarySearchTreesII/UniqueBinarySearchTreesII.java) | Medium |
-
-
+|      | 95 | Unique Binary Search TreesII | [Java](algorithms/java/src/uniqueBinarySearchTreesII/UniqueBinarySearchTreesII.java) | Medium |
+|      | 98 | ValidateBinarySearchTree | [Java](algorithms/java/src/validateBinarySearchTree/ValidateBinarySearchTree.java) | Medium |
+ 
